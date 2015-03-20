@@ -5,6 +5,14 @@ body {
 	font-weight: 400;
 	background: none;
 }
+.full{
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-image: url(../images/1.jpg);
+}
+
 strong {
 	font-weight: 700;
 }
